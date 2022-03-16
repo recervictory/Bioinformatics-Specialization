@@ -8,4 +8,7 @@
 
 Journey to the Frontier of Computational Biology. Master bioinformatics software and computational approaches in modern biology.
 
+ID      | Title                                                                                         |Course     |  Solution     | Date
+---     | ---                                                                                           |---        |---            |---
+BA1D    | [Find All Occurrences of a Pattern in a String ](https://rosalind.info/problems/ba1d/)        |C01W01     |BA1D           |
 
