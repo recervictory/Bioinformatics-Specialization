@@ -1,4 +1,4 @@
-![Banner](\resources/banner.png)
+![Banner](resources/banner.png)
 
 ---
 # Bioinformatics Specialization
